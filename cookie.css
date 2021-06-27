@@ -1,0 +1,100 @@
+body{
+    background-color: darkblue;
+    height: 500px; 
+}
+.logo {
+    position: relative;
+    top: 20px;
+    left:30px;
+    height: 1cm;
+    width: 1cm;
+}
+.labels {
+    color: pink;
+    position: relative;
+    top:1px;
+}
+#label1 > a{
+    color: pink;
+    text-decoration: none;
+}
+#label2 > a{
+    color:pink;
+    text-decoration: none;
+}
+#label3 > a{
+    color:pink;
+    text-decoration: none;
+}
+#label4 > a{
+    color:pink;
+    text-decoration: none;
+}
+#label5 > a{
+    color:pink;
+    text-decoration: none;
+}
+#label6 > a{
+    color:pink;
+    text-decoration: none;
+}
+#label7 > a{
+    color:pink;
+    text-decoration: none;
+}
+#label1 {
+    text-decoration:none;
+    position: relative; 
+    left: 100px;
+    display:inline-block;
+    margin-right:10px;
+}
+#label2 {
+    text-decoration:none;
+    position: relative; 
+    left:120px;
+    display:inline-block;
+}
+#label3{
+    text-decoration:none;
+    position: relative;
+    left:150px;
+    display:inline-block;
+}
+#label4{
+    text-decoration:none;
+    position: relative;
+    left: 180px;
+    display:inline-block;
+}
+#label5{
+    text-decoration:none;
+    position: relative;
+    left: 210px;
+    display:inline-block;
+}
+#label6{
+    text-decoration:none;
+    position: relative;
+    left: 240px;
+    display:inline-block;
+}
+#label7{
+    position: relative;
+    left: 270px;
+    display:inline-block;
+}
+.top{
+    padding-bottom: 20px ;
+    border-bottom: 0.5px yellow solid;
+}
+.txt{
+    color: pink;
+    text-align: center;
+    text-transform: capitalize;
+    top: 25px;
+    position: relative;
+    font-size: 300%;
+    background-color: black;
+    padding: 50px;
+}
